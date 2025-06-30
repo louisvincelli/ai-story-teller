@@ -60,8 +60,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/louisvincelli/ai-finance-advisor.git
-cd ai-finance-advisor
+git clone https://github.com/louisvincelli/ai-story-teller.git
+cd ai-story-teller
 ```
 
 **Installation**
