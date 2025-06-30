@@ -1,12 +1,6 @@
 # ReadMe AI
 A Story-telling application that uses LLM to create stories according to the categories and description of what the user is looking for.
 
-## Getting Started
-
-<div>
-  <h3 align="center">ReadMe AI</h3>
-</div>
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. [Introduction](#introduction)
