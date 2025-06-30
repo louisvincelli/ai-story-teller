@@ -11,9 +11,10 @@ A Story-telling application that uses LLM to create stories according to the cat
 
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-5. [Deploy](#deploy)
+3. [Screenshots](#screenshots)
+4. [Features](#features)
+5. [Quick Start](#quick-start)
+6. [Deploy](#deploy)
 
 ## <a name="introduction"> Introduction</a>
 
@@ -33,6 +34,12 @@ Built with the latest Next.js and TypeScript, ReadMe AI is an advanced AI storyt
 - Autoprefixer
 - ESLint
 - Turbopack
+
+## <a name="screenshots"> Screenshots</a>
+
+![Screenshot1](./public/screenshot1.PNG)
+
+![Screenshot2](./public/screenshot2.PNG)
 
 ## <a name="features">🔋 Features</a>
 
